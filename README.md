@@ -10,8 +10,6 @@
 
 ![Screen Shot 2022-11-30 at 18 52 17](https://user-images.githubusercontent.com/95680946/204840829-bed59a55-08ed-4566-9959-6125ae1c18ce.png)
 
-![Screen Shot 2022-11-30 at 18 55 01](https://user-images.githubusercontent.com/95680946/204840787-a2a31a2f-cd45-48d9-a80a-8d7b4526c4e3.png)
-
 ![Screen Shot 2022-11-30 at 18 54 50](https://user-images.githubusercontent.com/95680946/204840792-8010d8d9-2d9c-4407-a2fa-9a0f943ddbef.png)
 
 ![Screen Shot 2022-11-30 at 18 54 40](https://user-images.githubusercontent.com/95680946/204840800-e536b6f0-e4dc-4ba7-98ce-106cc06de7cd.png)
@@ -24,4 +22,5 @@
 
 ![Screen Shot 2022-11-30 at 18 53 52](https://user-images.githubusercontent.com/95680946/204840813-6b79a89e-e2d8-4f33-83f3-8cf96ce04342.png)
 
+![Screen Shot 2022-11-30 at 18 55 01](https://user-images.githubusercontent.com/95680946/204840787-a2a31a2f-cd45-48d9-a80a-8d7b4526c4e3.png)
 
