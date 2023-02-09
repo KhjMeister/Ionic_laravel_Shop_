@@ -5,7 +5,6 @@
  This project is full stack
  In the back-end section, it is written with Laravel and MySQL
  And in the front part, it is written with Ionic. (The app is multilingual)
- To buy or order software  
 
  khaledjamal5946@gmail.com
 
