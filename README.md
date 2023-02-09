@@ -1,12 +1,12 @@
-# Ionic_Angular_laravel_Shop
+# Ionic_laravel_Shop
 
 # Summary
 
  This project is full stack
  In the back-end section, it is written with Laravel and MySQL
- And in the front part, it is written with Angular and Ionic. (The app is multilingual)
+ And in the front part, it is written with Ionic. (The app is multilingual)
  To buy or order software  
- 0905094668
+
  khaledjamal5946@gmail.com
 
 The code is not included due to the customer's request
